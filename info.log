@@ -69,3 +69,769 @@
 {"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
 {"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
 {"name":"error","length":126,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"106","routine":"pg_atoi","level":"error"}
+{"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"name":"error","length":126,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"106","routine":"pg_atoi","level":"error"}
+{"name":"error","length":126,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"106","routine":"pg_atoi","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"name":"error","length":126,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"106","routine":"pg_atoi","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"name":"error","length":125,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"name":"error","length":92,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"name":"error","length":92,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"name":"error","length":92,"severity":"ERROR","code":"22P02","file":"numutils.c","line":"62","routine":"pg_atoi","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"name":"error","length":109,"severity":"ERROR","code":"22P02","file":"numeric.c","line":"5663","routine":"set_var_from_str","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 3 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 3 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 1 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 123456 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 123456 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"Not Found: Bookmark with id 23 not found!","level":"error"}
+{"level":"error"}
+{"message":"Invalid request: Title missing","level":"error"}
+{"message":"Invalid request: URL missing","level":"error"}
+{"message":"Invalid request: Rating missing","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid rating supplied","level":"error"}
+{"message":"Invalid request: Invalid URL supplied","level":"error"}
+{"message":"Not Found: Bookmark with id 23941 not found!","level":"error"}
+{"message":"Not Found: Bookmark with id 123456 not found!","level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}

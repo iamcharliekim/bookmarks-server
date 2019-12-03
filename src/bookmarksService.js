@@ -26,11 +26,18 @@ const BookmarksService = {
     },
 
     deleteBookmarks(knex, id){
+        return knex
+            .from('bookmarks_table')
+            .where({id})
+            .delete()
 
     },
 
-    updateBookmarks(knex, id){
-
+    updateBookmarks(knex, id, bookmark){
+        return knex
+            .into('bookmarks_table')
+            .where({id})
+            .update(bookmark)
     }
 
 }
